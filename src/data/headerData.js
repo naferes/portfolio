@@ -3,7 +3,7 @@ import resume from '../assets/pdf/resume.pdf'
 export const headerData = {
     name: 'Feres Nasri',
     title: "Cloud/Devops Engineer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    desciption:"“People tell you the world looks a certain way. Parents tell you how to think. Schools tell you how to think. TV. Religion. And then at a certain point, if you’re lucky, you realize you can make up your own mind. Nobody sets the rules but you. You can design your own life.”— Carrie Ann Moss ",
     image: 'https://flamboyant-goldberg-43f4ca.netlify.app/isso.jpg',
     resumePdf: resume
 }
