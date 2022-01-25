@@ -11,9 +11,9 @@ import { socialsData } from '../../data/socialsData';
 import {
     FaTwitter,
     FaLinkedin,
-    FaGithub,
+  /*  FaGithub,
     FaYoutube,
-    FaBlogger,
+    FaBlogger,*/
     FaInstagram,
     FaFacebook,
 } from 'react-icons/fa';
