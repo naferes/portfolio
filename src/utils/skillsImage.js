@@ -10,25 +10,39 @@ import angular from '../assets/svg/skills/angular.svg'
 import javascript from '../assets/svg/skills/javascript.svg'
 import nextJS from '../assets/svg/skills/nextJS.svg'
 import nuxtJS from '../assets/svg/skills/nuxtJS.svg'
+import scrum from '../assets/svg/skills/scrum-svgrepo-com.svg'
 import react from '../assets/svg/skills/react.svg'
+import devops from '../assets/svg/skills/devops.svg'
 import svelte from '../assets/svg/skills/svelte.svg'
+import kali from '../assets/svg/skills/353176.svg'
 import typescript from '../assets/svg/skills/typescript.svg'
 import vue from '../assets/svg/skills/vue.svg'
+import centos from '../assets/svg/skills/centos-seeklogo.com.svg'
+import kibana from '../assets/svg/skills/elastic-kibana.svg'
+import grafana from '../assets/svg/skills/grafana-icon.svg'
 import bootstrap from '../assets/svg/skills/bootstrap.svg'
 import bulma from '../assets/svg/skills/bulma.svg'
+import logstash from '../assets/svg/skills/elastic-logstash.svg'
 import capacitorjs from '../assets/svg/skills/capacitorjs.svg'
 import coffeescript from '../assets/svg/skills/coffeescript.svg'
 import memsql from '../assets/svg/skills/memsql.svg'
+import ganache from '../assets/svg/skills/ganache.svg'
 import mongoDB from '../assets/svg/skills/mongoDB.svg'
+import elasticsearch from '../assets/svg/skills/elasticsearch.svg'
 import mysql from '../assets/svg/skills/mysql.svg'
 import postgresql from '../assets/svg/skills/postgresql.svg'
 import tailwind from '../assets/svg/skills/tailwind.svg'
 import vitejs from '../assets/svg/skills/vitejs.svg'
+import ubuntu from '../assets/svg/skills/cof_white-orange_hex.svg'
 import vuetifyjs from '../assets/svg/skills/vuetifyjs.svg'
+import solidity from '../assets/svg/skills/Solidity-Logo.wine.svg'
+import sonarqube from '../assets/svg/skills/sonarqube.svg'
 import c from '../assets/svg/skills/c.svg'
+import node_js from '../assets/svg/skills/nodejs-icon.svg'
 import cplusplus from '../assets/svg/skills/cplusplus.svg'
 import csharp from '../assets/svg/skills/csharp.svg'
 import dart from '../assets/svg/skills/dart.svg'
+import ethereum from '../assets/svg/skills/ethereum.svg'
 import go from '../assets/svg/skills/go.svg'
 import java from '../assets/svg/skills/java.svg'
 import julia from '../assets/svg/skills/julia.svg'
@@ -89,6 +103,10 @@ export const skillsImage = (skill) => {
             return docker;
         case 'illustrator':
             return illustrator;
+        case 'solidity':
+            return solidity;
+        case 'centos':
+            return centos;
         case 'adobe xd':
             return adobeXd;
         case 'after effects':
@@ -105,6 +123,10 @@ export const skillsImage = (skill) => {
             return nuxtJS;
         case 'react':
             return react;
+        case 'react-native':
+            return react;
+        case 'devops':
+            return devops;
         case 'svelte':
             return svelte;
         case 'typescript':
@@ -131,6 +153,8 @@ export const skillsImage = (skill) => {
             return tailwind;
         case 'vitejs':
             return vitejs;
+        case 'kali':
+            return kali;
         case 'vuetifyjs':
             return vuetifyjs;
         case 'c':
@@ -153,12 +177,16 @@ export const skillsImage = (skill) => {
             return matlab;
         case 'php':
             return php;
+        case 'ubuntu': 
+            return ubuntu
         case 'python':
             return python;
         case 'ruby':
             return ruby;
         case 'swift':
             return swift;
+        case 'node js':
+            return node_js
         case 'adobe audition':
             return adobeaudition;
         case 'aws':
@@ -209,10 +237,20 @@ export const skillsImage = (skill) => {
             return figma;
         case 'flutter':
             return flutter;
+        case 'scrum':
+            return scrum;
         case 'haxe':
             return haxe;
         case 'ionic':
             return ionic;
+        case 'ethereum':
+            return ethereum;
+        case 'grafana':
+            return grafana;
+        case 'ganache':
+            return ganache;
+        case 'sonarqube':
+            return sonarqube;
         case 'markdown':
             return markdown;
         case 'microsoft office':
@@ -225,6 +263,12 @@ export const skillsImage = (skill) => {
             return unity;
         case 'wolframalpha':
             return wolframalpha;
+        case 'elasticsearch':
+            return elasticsearch;
+        case 'logstash':
+            return logstash;
+        case 'kibana':
+            return kibana;
         case 'canva':
             return canva;
         default:
