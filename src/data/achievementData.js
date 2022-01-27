@@ -7,7 +7,7 @@ export const achievementData = {
             details : 'Foundational knowledge of cybersecurity, network security, DevSecOps, encryption and cybersecurity laws, Black Hats and White Hats tactics, also practicing critical thinking and problem solving skills.',
             date : 'Sep 28, 2021',
             field : 'Cyber Sec',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            image : 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cisco_academy_logo.svg/1200px-Cisco_academy_logo.svg.png'
         },
 
     ]
