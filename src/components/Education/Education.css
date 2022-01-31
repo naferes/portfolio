@@ -147,13 +147,13 @@
     }
     
     .education-details > h4 {
-        font-size: 1.125rem;
+        font-size: 1rem;
         line-height: 126%;
     }
     
     .education-details > h5 {
         font-size: 1.05rem;
-        line-height: 126%;
+        line-height: 200%;
     }
 }
 

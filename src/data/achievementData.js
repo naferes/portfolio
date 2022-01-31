@@ -9,6 +9,14 @@ export const achievementData = {
             field : 'Cyber Sec',
             image : 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cisco_academy_logo.svg/1200px-Cisco_academy_logo.svg.png'
         },
+        {
+            id : 1,
+            title : 'Oracle Cloud Infrastructure Foundations Associate',
+            details : 'First ceritifcation needed to get the Oracle Cloud Infrastructure Professional Arhitect from Oracle',
+            date : 'Jan 31, 2022',
+            field : 'Cloud',
+            image : 'https://freepikpsd.com/file/2020/01/Oracle-PNG-File.png'
+        },
 
     ]
 }

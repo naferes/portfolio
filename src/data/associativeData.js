@@ -63,7 +63,7 @@ export const associativeData = {
             details : 'I have participated in the organization of the 7th edition of the ISI-Entreprise Forum Day (Organized by Codex), where entreprises and startups presented their services and internship offers + panels',
             date : '26th of Nov 2021',
             field : 'Entrepreneur',
-            image : 'https://scontent.ftun14-1.fna.fbcdn.net/v/t39.30808-6/259711650_965307557409636_561723665925630947_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=340051&_nc_ohc=i0UofCIh0moAX8lvCiF&_nc_ht=scontent.ftun14-1.fna&oh=00_AT-9nd9a2LoFD4KuSazlyAdYSGHdUCfRxY4lW7redQ5kWw&oe=61F66AEE'
+            image : 'https://linstant-m.tn//uploads/7730.png'
         },
 
     ]
