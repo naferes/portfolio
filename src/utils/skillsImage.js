@@ -79,6 +79,7 @@ import fastify from '../assets/svg/skills/fastify.svg'
 import figma from '../assets/svg/skills/figma.svg'
 import flutter from '../assets/svg/skills/flutter.svg'
 import haxe from '../assets/svg/skills/haxe.svg'
+import spring from '../assets/svg/skills/springio-ar21.svg'
 import ionic from '../assets/svg/skills/ionic.svg'
 import markdown from '../assets/svg/skills/markdown.svg'
 import microsoftoffice from '../assets/svg/skills/microsoftoffice.svg'
@@ -241,6 +242,8 @@ export const skillsImage = (skill) => {
             return scrum;
         case 'haxe':
             return haxe;
+        case 'spring-boot':
+            return spring;
         case 'ionic':
             return ionic;
         case 'ethereum':

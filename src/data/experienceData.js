@@ -48,4 +48,11 @@ export const experienceData = [
         startYear: 'Jun 2021',
         endYear: 'Aug 2021'
     },
+    {
+        id: 7,
+        company: 'Captiva',
+        jobtitle: 'Devops/Azure Cloud Intern',
+        startYear: 'Feb 2022',
+        endYear: 'Now'
+    },
 ]
