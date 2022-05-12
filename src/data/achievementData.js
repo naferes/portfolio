@@ -37,6 +37,24 @@ export const achievementData = {
             image : 'https://flamboyant-goldberg-43f4ca.netlify.app/badge4.png',
             link : 'https://catalog-education.oracle.com/pls/certview/sharebadge?id=30DE16A73B3A78AFB23ACE0A2E4736AE85FB67CCB25D85C960405CE934DF1FC6'
         },
+        {
+            id : 5,
+            title : 'Microsoft Certified: Azure Fundamentals',
+            details : 'Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.',
+            date : 'Apr 25, 2022',
+            field : 'Azure Cloud',
+            image : 'https://flamboyant-goldberg-43f4ca.netlify.app/badge5.png',
+            link : 'https://www.credly.com/badges/625b2c24-30ba-4e63-a253-7ac47da5c7b6'
+        },
+        {
+            id : 6,
+            title : 'Microsoft Certified: Azure AI Fundamentals',
+            details : 'Earners of the Azure AI Fundamentals certification have demonstrated foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services.',
+            date : 'May 8, 2022',
+            field : 'Azure Cloud',
+            image : 'https://flamboyant-goldberg-43f4ca.netlify.app/badge6.png',
+            link : 'https://www.credly.com/badges/b7a68637-cd31-4861-8c13-7ebfff46044e'
+        },
 
     ]
 }
