@@ -156,7 +156,7 @@ function Landing() {
                             {headerData.resumePdf && (
                                 <a
                                     href={headerData.resumePdf}
-                                    download='resume'
+                                    download='NASRI_Feres_CV'
                                     target='_blank'
                                     rel='noreferrer'
                                 >
